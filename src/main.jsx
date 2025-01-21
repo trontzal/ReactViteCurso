@@ -14,7 +14,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <StrictMode>
 
         
-        <GonzaloApp saludo = "Buenos dias" numero = {123} booleano = {true}/>
+        <GonzaloApp saludo = "Buenos dias" numero = {123} booleano = {true} unArray = {[1,2,3,4]}/>
 
 
     </StrictMode>
